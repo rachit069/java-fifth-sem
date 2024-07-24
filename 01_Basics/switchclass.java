@@ -3,7 +3,7 @@ class switchclass
 	public static void main(String args[])
 	{
 		int a = 100;
-		switch(a){
+		switch (a){
 			case 10:
 			{
 				System.out.println("Ambala");
