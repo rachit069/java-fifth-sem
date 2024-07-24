@@ -9,6 +9,7 @@ class keybRead
 		String a;
 		System.out.println("May I know your name");
 		a = s.nextLine();
+		System.out.println(" ");
 		System.out.println(a);
 	}
 }
